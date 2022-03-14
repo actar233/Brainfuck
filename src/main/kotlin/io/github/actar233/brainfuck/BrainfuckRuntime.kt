@@ -1,4 +1,4 @@
-package io.github.actar676309180.brainfuck
+package io.github.actar233.brainfuck
 
 import java.util.*
 

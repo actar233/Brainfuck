@@ -1,4 +1,4 @@
-package io.github.actar676309180.brainfuck
+package io.github.actar233.brainfuck
 
 class Number(private var number:Long=0L) : Token {
     fun value()=number

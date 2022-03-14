@@ -3,16 +3,16 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.arthur</groupId>
+    <groupId>io.github.actar233</groupId>
     <artifactId>brainfuck</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>io.github.actar676309180.brainfuck</name>
+    <name>Brainfuck</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <kotlin.version>1.2.51</kotlin.version>
+        <kotlin.version>1.6.20-RC</kotlin.version>
         <junit.version>4.12</junit.version>
     </properties>
 
